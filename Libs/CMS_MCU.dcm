@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32L010K4T6
+D STMICROELECTRONICS - STM32L010K4T6 - MCU, 32BIT, 32MHZ, LQFP-32
+F https://www.st.com/resource/en/datasheet/stm32l010k4.pdf
+$ENDCMP
+#
+#End Doc Library

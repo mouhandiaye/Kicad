@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX4208AUA+
+D Instrument Amp Single R-R O/P  2.75/5.5V
+F http://datasheets.maximintegrated.com/en/ds/MAX4208-MAX4209.pdf
+$ENDCMP
+#
+$CMP TSV912AIDSGR
+D 8-MHz, Low-Noise, Low Offset, RRIO General Purpose CMOS Operational Amplifier
+F http://www.ti.com/lit/gpn/tsv912
+$ENDCMP
+#
+#End Doc Library

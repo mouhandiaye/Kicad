@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# DMP3098L-7
+#
+DEF DMP3098L-7 U 0 30 Y Y 1 F N
+F0 "U" 650 300 50 H V L CNN
+F1 "DMP3098L-7" 650 200 50 H V L CNN
+F2 "CMS_MOSFET:SOT95P240X110-3N" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "P-CHANNEL ENHANCEMENT MODE MOSFET" 650 -100 50 H I L CNN "Description"
+F5 "Diodes Inc." 650 -300 50 H I L CNN "Manufacturer_Name"
+F6 "DMP3098L-7" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F7 "621-DMP3098L-7" 650 -500 50 H I L CNN "Mouser Part Number"
+F8 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP3098L-7?qs=ptj1V1atRAptfFGa76gfNw%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F9 "DMP3098L-7" 650 -700 50 H I L CNN "Arrow Part Number"
+F10 "https://www.arrow.com/en/products/dmp3098l-7/diodes-incorporated?region=nac" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X G 1 0 0 200 R 50 50 0 0 P
+X S 2 0 -100 200 R 50 50 0 0 P
+X D 3 800 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library
