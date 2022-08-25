@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 665110131822
+#
+DEF 665110131822 J 0 40 Y N 1 L N
+F0 "J" 0 118 50 H V L BNN
+F1 "665110131822" 0 -1100 50 H V L BNN
+F2 "665110131822" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 100 100 100 -1000 N
+P 2 0 0 10 100 -1000 400 -1000 N
+P 2 0 0 10 400 -1000 400 100 N
+P 2 0 0 10 400 100 100 100 N
+X ~ 10 0 0 100 R 40 40 0 0 P 
+X ~ 9 0 -100 100 R 40 40 0 0 P 
+X ~ 8 0 -200 100 R 40 40 0 0 P 
+X ~ 7 0 -300 100 R 40 40 0 0 P 
+X ~ 6 0 -400 100 R 40 40 0 0 P 
+X ~ 5 0 -500 100 R 40 40 0 0 P 
+X ~ 4 0 -600 100 R 40 40 0 0 P 
+X ~ 3 0 -700 100 R 40 40 0 0 P 
+X ~ 2 0 -800 100 R 40 40 0 0 P 
+X ~ 1 0 -900 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
