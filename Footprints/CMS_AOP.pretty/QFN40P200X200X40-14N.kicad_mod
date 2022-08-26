@@ -40,12 +40,7 @@
   (pad "12" smd rect (at 1 -0.8 90) (size 0.2 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f52e45b4-afed-414c-b3ba-ac5d6b0c16f3))
   (pad "13" smd rect (at 0.2 -0.95) (size 0.2 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c52afaa2-25fd-4023-bbb4-16f64fc04562))
   (pad "14" smd rect (at -0.2 -0.95) (size 0.2 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5e87e287-edd9-4a1f-852f-56f8ac814321))
-  (model "OPA4991IRUCR.stp"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "C:/Projects/Kicad/Models/CMS_AOP/OPA4991IRUCR.stp"
+  (model ":Models:CMS_AOP/OPA4991IRUCR.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
