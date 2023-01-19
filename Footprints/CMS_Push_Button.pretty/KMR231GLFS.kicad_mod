@@ -17,10 +17,10 @@
   (fp_line (start 2.324 1.53) (end -1.876 1.53) (layer "F.Fab") (width 0.254) (tstamp 483a423d-2b0f-4793-b2a0-dc04b46ee313))
   (fp_line (start -1.876 1.53) (end -1.876 -1.27) (layer "F.Fab") (width 0.254) (tstamp a2eaf409-da73-4a63-97ff-ffd73b26032a))
   (fp_line (start -1.876 -1.27) (end 2.324 -1.27) (layer "F.Fab") (width 0.254) (tstamp e8b7e0dd-ada3-44ae-9bec-ae7fe78d317f))
+  (pad "1" smd rect (at -1.826 -0.67) (size 0.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 35af79b4-aeb9-4a2e-ae0c-a8bc069f7a9b))
   (pad "1" smd rect (at 2.274 -0.67) (size 0.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5534a6cf-19f9-41e5-be82-382b5470bfc5))
+  (pad "2" smd rect (at -1.826 0.93) (size 0.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 850b3d0b-1c4d-4468-a007-810413589979))
   (pad "2" smd rect (at 2.274 0.93) (size 0.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp db81dbf5-87c0-4369-86ee-53fa648d4a0c))
-  (pad "3" smd rect (at -1.826 0.93) (size 0.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 850b3d0b-1c4d-4468-a007-810413589979))
-  (pad "4" smd rect (at -1.826 -0.67) (size 0.9 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 35af79b4-aeb9-4a2e-ae0c-a8bc069f7a9b))
   (model ":Models:CMS_Push_Button/KMR223GLFG.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

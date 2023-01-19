@@ -29,7 +29,7 @@
     (solder_mask_margin 0.1016) (tstamp 8c5c4bc6-6d0e-433d-af66-864c3304b5e5))
   (pad "3" smd rect (at -0.7 0.395 90) (size 0.45 0.6) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.1016) (tstamp 87ea55b2-746f-47f6-b946-79a9a570380a))
-  (model "${MODELS}/ACAG0201-2450-T.stp"
+  (model ":Models:CMS_Antenna/ACAG0201-2450-T.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(footprint "QFN40P800X800X100-69N-D" (version 20211014) (generator pcbnew)
+(footprint "VQFPN-68_8x8mm_P0.4mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (descr "VFQFPN68")
@@ -95,7 +95,7 @@
   (pad "67" smd rect (at -2.8 -3.95) (size 0.2 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 35b2566d-9b4d-4bb3-906d-b99fc307622e))
   (pad "68" smd rect (at -3.2 -3.95) (size 0.2 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f1b38826-a2b9-4c67-8b44-badded181aec))
   (pad "69" smd rect (at 0 0) (size 6.5 6.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp be01a43f-091c-4676-b98e-a7e049c5ed6e))
-  (model "${MODELS}/STM32WB55RCV6.stp"
+  (model ":Models:Package/VFQFPN68.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
